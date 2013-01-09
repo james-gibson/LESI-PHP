@@ -1,7 +1,7 @@
 <?php
 session_start();
 ?>
-<html>
+<!DOCTYPE html>
 
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
