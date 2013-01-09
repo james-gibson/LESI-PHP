@@ -2,7 +2,7 @@
 session_start();
 $_SESSION['valid_user'] = Guest;
 ?>
-<html>
+<!DOCTYPE html>
 
 <head>
 <meta http-equiv="Content-Language" content="en-us">
