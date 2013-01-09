@@ -14,7 +14,7 @@ $connection = @mysql_connect('localhost', 'apnohe', 'o79gmtype');
 
 $USER = $_SESSION['valid_user'];
 ?>
-<html>
+<!DOCTYPE html>
 
 <head>
 <meta http-equiv="Content-Language" content="en-us">
