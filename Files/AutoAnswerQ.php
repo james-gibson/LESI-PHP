@@ -18,7 +18,7 @@ $connection = @mysql_connect('localhost', 'apnohe', 'o79gmtype');
 		$CUST_NUMBER = $query_row['CUST_NUM'];
 		//echo $CUST_NUMBER;
 ?>
-<html>
+<!DOCTYPE html>
 
 <head>
 <meta http-equiv="Content-Language" content="en-us">
